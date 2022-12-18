@@ -61,6 +61,6 @@ print("Hello Python")
 
  %[http://codepen.com]
 
- > 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
+ > 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
 
- > This is the token code of github of directory pracgit
+ > This is the token code of github of directory.
