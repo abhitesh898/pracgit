@@ -61,6 +61,7 @@ print("Hello Python")
 
  %[http://codepen.com]
 
- > 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
 
- > This is the token code of github of directory.
+![this is a badge](https://img.shields.io/badge/live--class-sunday-green)
+
+ Want to make a badge so search the website (shields.io), look for (Your Badge) enter (live-class sunday green) and click on make badge, copy the link which is our badge and paste it in our readme.md file in image type.
