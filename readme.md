@@ -64,4 +64,4 @@ print("Hello Python")
 
 ![this is a badge](https://img.shields.io/badge/live--class-sunday-green)
 
- Want to make a badge so search the website (shields.io), scroll down & look for (Your Badge) in field enter (live-class sunday green) and click on make badge, copy the link of badge web page which is our badge and paste it in our readme.md file in image type in readme.md file.
+ Want to make a badge so search the website (shields.io), scroll down & look for (Your Badge) in field enter (live-class sunday green) and click on make badge, copy the link of badge web page which is our badge and paste it in our readme.md file in image type in readme.md
